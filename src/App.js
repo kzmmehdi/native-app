@@ -10,6 +10,7 @@ function App() {
         <p>
         Hello World!!!
         second commit
+        all setup git+surge+ github CI & CD
         </p>
         <a
           className="App-link"
