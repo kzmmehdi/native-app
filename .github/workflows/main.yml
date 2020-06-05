@@ -25,6 +25,9 @@ jobs:
 
     - name: install surge
       run: npm install --global surge
+
+    - name: install project dependencies
+      run: npm install
     
     - name: build project
       run: npm run build
